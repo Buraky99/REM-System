@@ -1,0 +1,10 @@
+SMAP
+emailForm_jsp.java
+JSP
+*S JSP
+*F
++ 0 emailForm.jsp
+WEB-INF/views/emailForm.jsp
+*L
+1,43:44
+*E
